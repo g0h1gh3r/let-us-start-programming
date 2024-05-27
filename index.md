@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Let's start programming
 ---
 Welcome to my blog!
